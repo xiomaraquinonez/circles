@@ -1,7 +1,7 @@
 var bg = 170;
 
 function setup() {
-  createCanvas(2000, 2000);
+  createCanvas(10000, 10000);
   colorMode(HSB);
 }
 
